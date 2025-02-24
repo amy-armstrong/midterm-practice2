@@ -58,5 +58,4 @@ Armstrong_Amy
 
 ## License
 
-
-TODO: Write license
+MIT License
